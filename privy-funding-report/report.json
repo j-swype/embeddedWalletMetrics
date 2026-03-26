@@ -1,0 +1,17 @@
+{
+  "totalUsers": 5,
+  "totalUsersAnalyzed": 3,
+  "nonWalletSignInCount": 3,
+  "fundedCount": 2,
+  "conversionPercent": 66.7,
+  "dropOffPercent": 33.3,
+  "depositsByChain": {
+    "arbitrum:usdt": {
+      "chain": "arbitrum",
+      "asset": "usdt",
+      "fundedUsers": 2,
+      "depositCount": 59,
+      "totalAmount": 173.37
+    }
+  }
+}

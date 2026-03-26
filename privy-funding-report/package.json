@@ -1,0 +1,16 @@
+{
+  "name": "privy-funding-report",
+  "version": "1.0.0",
+  "description": "One-time funding drop-off report for Privy apps (email/phone/social sign-in → ever funded). Powered by Swype.",
+  "type": "module",
+  "main": "bin/cli.mjs",
+  "bin": {
+    "swype-privy-funding-report": "./bin/cli.mjs",
+    "privy-funding-report": "./bin/cli.mjs"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["privy", "funding", "analytics", "swype"],
+  "license": "MIT"
+}
