@@ -1,4 +1,4 @@
-# Privy Funding Report (Swype)
+# Privy Funding Report
 
 One-time report that measures **conversion from non-wallet sign-in to first funded** for any Privy app. "Non-wallet" = users who signed in with email, phone, or social (Google, Twitter, Telegram, Farcaster, etc.). "Funded" = their embedded wallet has received at least one incoming transfer on any supported chain.
 
